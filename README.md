@@ -70,6 +70,7 @@ sudo apt-get install cuda
 sudo apt-get install libsnappy-dev
 sudo apt-get install libgraphicsmagick1-dev
 sudo apt-get install libssl1.0-dev # for web server
+sudo apt-get install luarocks
 ```
 
 Note: waifu2x requires little-cms2 linked graphicsmagick. if you use macOS/homebrew, See [#174](https://github.com/nagadomi/waifu2x/issues/174#issuecomment-384466451).
